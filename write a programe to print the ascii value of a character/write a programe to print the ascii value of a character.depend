@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722426806 source:f:\programming\problem solving\write a programe to print the ascii value of a character\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

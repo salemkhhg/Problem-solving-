@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722839997 source:f:\programming\problem solving\write a programe to print inverted half pyramid using star pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

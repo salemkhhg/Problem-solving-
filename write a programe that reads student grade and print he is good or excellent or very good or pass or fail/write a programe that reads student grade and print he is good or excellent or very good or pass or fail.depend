@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722522141 source:f:\programming\problem solving\write a programe that reads student grade and print he is good or excellent or very good or pass or fail\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

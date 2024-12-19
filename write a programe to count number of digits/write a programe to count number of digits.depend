@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722782609 source:f:\programming\problem solving\write a programe to count number of digits\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

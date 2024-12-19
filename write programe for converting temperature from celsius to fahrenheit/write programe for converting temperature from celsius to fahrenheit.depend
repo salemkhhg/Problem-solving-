@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722423845 source:f:\programming\problem solving\write programe for converting temperature from celsius to fahrenheit\main.c
+	<stdio.h>
+	<stdlib.h>
+

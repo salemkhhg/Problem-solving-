@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722770656 source:f:\programming\problem solving\write a program to reverse a number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
