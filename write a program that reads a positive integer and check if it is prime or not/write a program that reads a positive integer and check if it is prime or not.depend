@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722700320 source:f:\programming\problem solving\write a program that reads a positive integer and check if it is prime or not\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

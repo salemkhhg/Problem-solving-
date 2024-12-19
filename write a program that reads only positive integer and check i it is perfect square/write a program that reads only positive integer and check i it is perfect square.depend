@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722495564 source:f:\programming\problem solving\write a program that reads only positive integer and check i it is perfect square\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

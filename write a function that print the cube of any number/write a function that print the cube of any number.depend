@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724498610 source:f:\programming\problem solving\write a function that print the cube of any number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

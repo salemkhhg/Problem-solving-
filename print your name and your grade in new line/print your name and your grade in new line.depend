@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722422862 source:f:\programming\problem solving\print your name and your grade in new line\main.c
+	<stdio.h>
+	<stdlib.h>
+

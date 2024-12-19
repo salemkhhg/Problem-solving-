@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722432379 source:f:\programming\problem solving\write a program to check that the two number are equal or not and which one is higher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

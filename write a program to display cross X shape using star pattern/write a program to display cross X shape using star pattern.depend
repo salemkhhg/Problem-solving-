@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723448313 source:f:\programming\problem solving\write a program to display cross x shape using star pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
